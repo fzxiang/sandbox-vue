@@ -2,6 +2,10 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/93cdb381-e59d-4854-a3c3-9f994ad63688/deploy-status)](https://app.netlify.com/sites/layui-vue-playground/deploys)
 
 一个 Vue3 SFC 沙盒。[sandbox-vue](https://layui-vue.gitee.io/sandbox-vue)
+![输入图片说明](public/image.png)
+![输入图片说明](public/image1.png)
+![输入图片说明](public/image2.png)
+![输入图片说明](public/image4.png)
 
 ### 快速开始
 
