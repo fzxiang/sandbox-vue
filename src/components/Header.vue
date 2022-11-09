@@ -5,6 +5,7 @@ import Format from '@/icons/Format.vue'
 import Share from '@/icons/Share.vue'
 import Moon from '@/icons/Moon.vue'
 import Sun from '@/icons/Sun.vue'
+import Prettier from '@/icons/Prettier.vue'
 import {
   getSupportedVersions,
   getSupportedVueVersions,
@@ -196,7 +197,7 @@ const toggleLib = () => {
       </div>
 
       <button class="format" title="ctrl + shift + F format" @click="formatCode()">
-        <Format />
+        <Prettier />
       </button>
 
       <button title="Fullscreen" class="fullscreen" @click="toggle">
