@@ -85,7 +85,7 @@ const msg = ref('Hello World!')
 
 1. 构建应用
 
-运行 `npm run build` 命令来执行应用的构建，默认情况下，构建会输出到 `dist` 文件夹中
+运行 `pnpm build` 命令来执行应用的构建，默认情况下，构建会输出到 `dist` 文件夹中
 
 ```
 pnpm build
@@ -93,7 +93,7 @@ pnpm build
 
 2. 本地测试应用
 
-构建完成应用后，通过运行 `npm run preview` 命令，在本地测试该应用。
+构建完成应用后，通过运行 `pnpm preview` 命令，在本地测试该应用。
 
 ```
 pnpm build
@@ -108,7 +108,7 @@ pnpm preview
 
 如果要部署在 `https://<USERNAME>.github.io/<REPO>/` 上，例如仓库地址为` https://github.com/<USERNAME>/<REPO>`，那么需要设置 base 为 `'/<REPO>/'`。
 
-#### 感谢 
+### 感谢 
 - [@vue/repl](https://github.com/vuejs/repl)
 - [element-plus-playground](https://github.com/element-plus/element-plus-playground)
 - [Vue SFC Playground](https://sfc.vuejs.org/)
