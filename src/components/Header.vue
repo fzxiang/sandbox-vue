@@ -221,7 +221,7 @@ const toggleLib = () => {
       </button>
 
       <button title="View on Gitee" class="github">
-        <a href="https://gitee.com/layui-vue/layui-vue" target="_blank">
+        <a href="https://github.com/Sight-wcg/sandbox-vue" target="_blank">
           <github />
         </a>
       </button>
