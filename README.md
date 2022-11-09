@@ -1,7 +1,7 @@
-# [sandbox-vue](https://layui-vue.gitee.io/sandbox-vue)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/93cdb381-e59d-4854-a3c3-9f994ad63688/deploy-status)](https://app.netlify.com/sites/layui-vue-playground/deploys)
+# [sandbox-vue]( https://sandbox-vue.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/93cdb381-e59d-4854-a3c3-9f994ad63688/deploy-status)](https://app.netlify.com/sites/sandbox-vue/deploys)
 
-一个 Vue3 SFC 沙盒。[sandbox-vue](https://layui-vue.gitee.io/sandbox-vue)
+一个 Vue3 SFC 沙盒。[https://github.com/Sight-wcg/sandbox-vue]( https://github.com/Sight-wcg/sandbox-vue)
 ![输入图片说明](public/image.png)
 ![输入图片说明](public/image1.png)
 ![输入图片说明](public/image2.png)
@@ -14,10 +14,10 @@
 git clone https://gitee.com/layui-vue/layui-vue-playground.git
 
 // 安装依赖
-npm install
+pnpm install
 
 // 运行
-npm run dev
+pnpm dev
 
 ```
 
@@ -88,7 +88,7 @@ const msg = ref('Hello World!')
 运行 `npm run build` 命令来执行应用的构建，默认情况下，构建会输出到 `dist` 文件夹中
 
 ```
-npm run build
+pnpm build
 ```
 
 2. 本地测试应用
@@ -96,8 +96,8 @@ npm run build
 构建完成应用后，通过运行 `npm run preview` 命令，在本地测试该应用。
 
 ```
-npm run build
-npm run preview
+pnpm build
+pnpm preview
 ```
 
 3. github/gitee pages
