@@ -23,7 +23,7 @@ export interface Dependency {
 
 /**
  * 目前支持以下组件库,需要全量 ESM 构建包
- * @layui/layui-vue
+ * @fzxiang/layui-vue
  * element-plus
  * vant
  * quasar
@@ -32,7 +32,7 @@ export interface Dependency {
 export const config = {
   title: 'sandbox-vue',
   //UIPackage: 'layui',
-  UIPackage: '@layui/layui-vue',
+  UIPackage: '@fzxiang/layui-vue',
   //UIPackage: 'element-plus',
   //UIPackage: 'vant',
   //UIPackage: 'vue-devui',
@@ -92,7 +92,7 @@ export const dependencies: Dependency[] = [
     source: 'unpkg',
   },
   {
-    name: '@layui/layui-vue',
+    name: '@fzxiang/layui-vue',
     version: '',
     path: '/lib/index.js',
     stylePath: '/lib/index.css',

@@ -7,7 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "@layui/layui-vue": "latest",
+    "@fzxiang/layui-vue": "latest",
     "vue": "^3.2.30"
   },
   "devDependencies": {

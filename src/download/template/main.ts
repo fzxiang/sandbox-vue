@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-import '@layui/layui-vue/lib/index.css'
-import Layui from '@layui/layui-vue'
+import '@fzxiang/layui-vue/lib/index.css'
+import Layui from '@fzxiang/layui-vue'
 
 const app = createApp(App)
 
